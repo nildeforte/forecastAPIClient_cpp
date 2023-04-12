@@ -18,4 +18,4 @@ inluded makefile (uses g++)
 
 
 ## Licensing
-MIT License
+[MIT License](LICENSE)
